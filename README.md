@@ -98,7 +98,6 @@ Then open your browser and go to:
 http://localhost:5173
 
 
-Live demo is available here: react-lesson-42-git-main-korfantijulias-projects.vercel.app
-
+Live demo is available here: https://react-lesson-42-zeta.vercel.app/
 
 ```
